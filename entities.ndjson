@@ -1,0 +1,1 @@
+{"@context":"http://schema.org","@id":"https://exmpl.store","@type":"Product","description":"Product Description","image":"https://via.placeholder.com/150","name":"Example Product","offers":{"@type":"Offer","price":"500.00","priceCurrency":"USD"}}
