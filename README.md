@@ -11,12 +11,12 @@ cargo run -- --url http://exmpl.store
 
 For more options consult the help page with the `--help` option.
 
-  USAGE:
-      crawler [OPTIONS] --url <URL>
+    USAGE:
+        crawler [OPTIONS] --url <URL>
 
-  OPTIONS:
-      -h, --help                         Print help information
-      -o, --output <OUTPUT>              [default: entities.ndjson]
-      -T, --object-type <OBJECT_TYPE>    Object @type to search for (e.g. Product)
-      -u, --url <URL>                    The domain name to search
-      -V, --version                      Print version information
+    OPTIONS:
+        -h, --help                         Print help information
+        -o, --output <OUTPUT>              [default: entities.ndjson]
+        -T, --object-type <OBJECT_TYPE>    Object @type to search for (e.g. Product)
+        -u, --url <URL>                    The domain name to search
+        -V, --version                      Print version information
